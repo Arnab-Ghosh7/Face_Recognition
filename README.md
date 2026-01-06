@@ -55,7 +55,7 @@ Face_Recognition/
 
 1.  **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Arnab-Ghosh7/Face_Recognition
     cd Face_Recognition
     ```
 
