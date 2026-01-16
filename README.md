@@ -17,7 +17,7 @@ This project implements a comprehensive Face Recognition system leveraging Trans
 
 ## 🔍 Overview
 
-
+This project implements a robust Face Recognition system using **Transfer Learning** with the **VGG16** architecture. VGG16 is a Convolutional Neural Network (CNN) pre-trained on the massive ImageNet dataset, allowing it to extract rich feature representations from images.
 
 By freezing the initial layers of VGG16 and adding custom dense layers, we fine-tune the model to recognize specific faces with high accuracy, even with a limited number of training samples.
 
